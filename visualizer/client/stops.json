@@ -1,0 +1,83 @@
+topic 'test': {
+  "StopLocation" : [ {
+    "id" : "740000002",
+    "extId" : "740000002",
+    "name" : "Göteborg Centralstation",
+    "lon" : 11.973479,
+    "lat" : 57.708895,
+    "weight" : 7467,
+    "products" : 150
+  }, {
+    "id" : "740098001",
+    "extId" : "740098001",
+    "name" : "GÖTEBORG",
+    "lon" : 11.973479,
+    "lat" : 57.708895,
+    "weight" : 10653,
+    "products" : 222
+  }, {
+    "id" : "740016365",
+    "extId" : "740016365",
+    "name" : "Göteborg Sävenäs lokstation",
+    "lon" : 12.021077,
+    "lat" : 57.725993,
+    "weight" : 19,
+    "products" : 128
+  }, {
+    "id" : "740015578",
+    "extId" : "740015578",
+    "name" : "Göteborg Korsvägen",
+    "lon" : 11.986909,
+    "lat" : 57.696625,
+    "weight" : 3205,
+    "products" : 200
+  }, {
+    "id" : "740016358",
+    "extId" : "740016358",
+    "name" : "Göteborg Kungsportsplatsen",
+    "lon" : 11.969748,
+    "lat" : 57.704023,
+    "weight" : 3205,
+    "products" : 200
+  }, {
+    "id" : "740098526",
+    "extId" : "740098526",
+    "name" : "GÖTEBORG GAMLESTADEN",
+    "lon" : 12.004411,
+    "lat" : 57.729148,
+    "weight" : 2664,
+    "products" : 80
+  }, {
+    "id" : "740025609",
+    "extId" : "740025609",
+    "name" : "Göteborg Bellevue",
+    "lon" : 12.023477,
+    "lat" : 57.732456,
+    "weight" : 2573,
+    "products" : 192
+  }, {
+    "id" : "740020752",
+    "extId" : "740020752",
+    "name" : "Göteborg Brunnsparken",
+    "lon" : 11.967843,
+    "lat" : 57.706945,
+    "weight" : 2573,
+    "products" : 192
+  }, {
+    "id" : "740030117",
+    "extId" : "740030117",
+    "name" : "Göteborg Centralst Drottningt",
+    "lon" : 11.97374,
+    "lat" : 57.707898,
+    "weight" : 2573,
+    "products" : 192
+  }, {
+    "id" : "740025617",
+    "extId" : "740025617",
+    "name" : "Göteborg Chalmers",
+    "lon" : 11.97293,
+    "lat" : 57.689955,
+    "weight" : 2573,
+    "products" : 192
+  } ]
+}

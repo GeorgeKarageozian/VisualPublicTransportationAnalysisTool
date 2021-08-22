@@ -1,0 +1,20 @@
+{
+  "name": "map_server",
+  "version": "0.0.1",
+  "description": "map server for the map client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ita.chalmers.se/courses/dit355/2019/group-8/visualizer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "websocket"
+  ],
+  "author": "group-8",
+  "license": "ISC"
+}
